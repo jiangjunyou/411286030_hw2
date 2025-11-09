@@ -1,0 +1,26 @@
+{
+  "ai_enabled": false,
+  "similarity": {
+    "matrix_size": 5,
+    "ai_time_sec": null
+  },
+  "classification": {
+    "num_texts": 4,
+    "traditional_time_sec": 0.0001,
+    "ai_time_sec": null,
+    "agreement_rate_between_rule_and_ai": null
+  },
+  "summarization": {
+    "orig_len": 401,
+    "traditional": {
+      "summary_len": 65,
+      "time_sec": 0.0027,
+      "compression_ratio": 0.162
+    },
+    "ai": {
+      "summary_len": null,
+      "time_sec": null,
+      "compression_ratio": null
+    }
+  }
+}
